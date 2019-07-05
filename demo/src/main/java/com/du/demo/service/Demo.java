@@ -22,10 +22,10 @@ public class Demo {
 
 		
 		// get the base-url (ie: 'http://gamma.firebase.com/username')
-		String firebase_baseUrl = "https://valid-climber-216521.firebaseio.com/";
+		String firebase_baseUrl = "";
 
 		// get the api-key (ie: 'tR7u9Sqt39qQauLzXmRycXag18Z2')
-		String firebase_apiKey = "AIzaSyA3qI8l40EEoTg3muBaWiPCplXOwGEO-GQ";
+		String firebase_apiKey = "";
 
 		
 		
