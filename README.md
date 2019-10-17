@@ -1,4 +1,4 @@
-# spting-bootFireBase
+# spring-bootFireBase
 
 Create a firebase app a gete conection string and credentials
 
